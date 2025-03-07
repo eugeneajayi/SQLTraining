@@ -1,3 +1,7 @@
+/**
+developer: eugene ajayi
+date 3/6/2025
+**/
 --how to check data in a table
 
 select *
@@ -6,7 +10,7 @@ from noble
 --show the year 1962
 select *
 from noble
-where year = '1962'
+where year = '1963'
 
 --show where the subject is medicine
 select *
